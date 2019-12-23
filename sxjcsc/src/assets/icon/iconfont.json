@@ -1,0 +1,198 @@
+{
+  "id": "1500917",
+  "name": "陕西建材商城",
+  "font_family": "iconfont",
+  "css_prefix_text": "JC-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "83822",
+      "name": "型钢3",
+      "font_class": "xinggang3",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "164025",
+      "name": "布艺",
+      "font_class": "04",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "474642",
+      "name": "消防",
+      "font_class": "xiaofang",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "1044240",
+      "name": "卫浴洁具安装",
+      "font_class": "weiyu",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1044251",
+      "name": "门窗 门窗五金安装",
+      "font_class": "men",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "1606474",
+      "name": "家具-01",
+      "font_class": "jiaju",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "2828655",
+      "name": "物价局-钢材",
+      "font_class": "steel",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "2899657",
+      "name": "装修公司",
+      "font_class": "zhuang",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "4161070",
+      "name": "围栏",
+      "font_class": "weilan",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "4253895",
+      "name": "内保温开",
+      "font_class": "baowen",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "4928855",
+      "name": "地板",
+      "font_class": "diban",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "4956357",
+      "name": "电缆",
+      "font_class": "dianlan",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "5868106",
+      "name": "登录-密码",
+      "font_class": "denglu-mima",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "5929471",
+      "name": "石材",
+      "font_class": "shicai",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "5929532",
+      "name": "壁纸",
+      "font_class": "bizhi",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "6184791",
+      "name": "五金建材",
+      "font_class": "wujin",
+      "unicode": "e86b",
+      "unicode_decimal": 59499
+    },
+    {
+      "icon_id": "6531631",
+      "name": "辅料",
+      "font_class": "fuliao",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7362117",
+      "name": "家用电器",
+      "font_class": "jiayong",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "8849045",
+      "name": "其他",
+      "font_class": "qita",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "9784906",
+      "name": "智 能 阀 门-35",
+      "font_class": "zhinengfamen-",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "10420328",
+      "name": "阀门",
+      "font_class": "famen1",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "10464253",
+      "name": "家装建材",
+      "font_class": "jia",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "10585550",
+      "name": "管道",
+      "font_class": "guandao",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "10784540",
+      "name": "木材潜力",
+      "font_class": "mucai",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "10896041",
+      "name": "开关",
+      "font_class": "ziyuan",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "10909168",
+      "name": "油漆",
+      "font_class": "youqi",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "10977398",
+      "name": "灯饰照明",
+      "font_class": "dengshi",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    }
+  ]
+}

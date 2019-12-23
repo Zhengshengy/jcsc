@@ -1,0 +1,28 @@
+{
+  "data": [
+    { "id": 89, "catename": "五金工具" ,"name": "JC-icon-wujin"},
+    { "id": 90, "catename": "家装建材" ,"name": "JC-icon-jia"},
+    { "id": 92, "catename": "瓷砖地板" ,"name": "JC-icon-diban"},
+    { "id": 93, "catename": "精品灯饰" ,"name": "JC-icon-dengshi"},
+    { "id": 94, "catename": "居家家具" ,"name": "JC-icon-jiaju"},
+    { "id": 95, "catename": "家用电器" ,"name": "JC-icon-jiayong"},
+    { "id": 96, "catename": "装修公司" ,"name": "JC-icon-zhuang"},
+    { "id": 97, "catename": "家饰布艺" ,"name": "JC-icon-04"},
+    { "id": 98, "catename": "精品壁纸" ,"name": "JC-icon-bizhi"},
+    { "id": 99, "catename": "卫浴洁具" ,"name": "JC-icon-weiyu"},
+    { "id": 100, "catename": "建筑石材" ,"name": "JC-icon-shicai"},
+    { "id": 101, "catename": "园林铁艺" ,"name": "JC-icon-weilan"},
+    { "id": 102, "catename": "门窗玻璃" ,"name": "JC-icon-men"},
+    { "id": 104, "catename": "开关电料" ,"name": "JC-icon-ziyuan"},
+    { "id": 105, "catename": "实木板材" ,"name": "JC-icon-mucai"},
+    { "id": 106, "catename": "塑料管材" ,"name": "JC-icon-guandao"},
+    { "id": 107, "catename": "油漆涂装" ,"name": "JC-icon-youqi"},
+    { "id": 108, "catename": "辅料工具" ,"name": "JC-icon-fuliao"},
+    { "id": 109, "catename": "阀门管件" ,"name": "JC-icon-famen1"},
+    { "id": 110, "catename": "钢材管材" ,"name": "JC-icon-steel"},
+    { "id": 111, "catename": "消防器材" ,"name": "JC-icon-xiaofang"},
+    { "id": 112, "catename": "保温材料" ,"name": "JC-icon-baowen"},
+    { "id": 114, "catename": "电线电缆","name": "JC-icon-dianlan"},
+    { "id": 91, "catename": "其它" ,"name": "JC-icon-qita"}
+  ]
+}

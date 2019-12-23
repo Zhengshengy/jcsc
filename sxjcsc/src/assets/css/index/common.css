@@ -1,0 +1,22 @@
+
+ img{
+     vertical-align: middle;
+ }
+ .wrap{
+     width: 1200px;
+     margin: 0 auto;
+ }
+.singlerow{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.row3{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+
